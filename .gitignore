@@ -1,0 +1,6 @@
+*
+!/chapter-*
+!*.hs
+!README.md
+!LICENSE
+!.gitignore
